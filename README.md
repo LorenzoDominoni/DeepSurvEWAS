@@ -1,4 +1,4 @@
-This repository contains the code to replicate the experiments described in the paper **_"A Deep Survival EWAS approach estimating risk profile based on pre-diagnostic DNA methylation: an application to Breast Cancer Time to Diagnosis"_**, PLOS Computational Biology (2022), authored by Massi M.C., Dominoni L., Ieva F and Fiorito G.
+This repository contains the code to replicate the experiments described in the paper **_"A Deep Survival EWAS approach estimating risk profile based on pre-diagnostic DNA methylation: an application to Breast Cancer Time to Diagnosis"_**, PLOS Computational Biology (2022), authored by Massi M.C., Dominoni L., Ieva F. and Fiorito G.
 
 
 
